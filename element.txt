@@ -1,0 +1,2 @@
+elements de base,
+un ordinateur, une connexion internet, au moins deux doigts (même si la possibilité du mono-doigt ne rende pas totalement impossible la mise en place et le développement du projet).
