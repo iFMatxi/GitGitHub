@@ -2,3 +2,6 @@ Egituratzen
 ou comment structurer un projet sur GitHub
 
 nous avons donc un dossier avec trois fichier (oui-oui, 3 fichiers) inclus et modifiés.
+Ces fichiers sont de deux types différents:
+- deux txt
+- un md
